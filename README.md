@@ -175,12 +175,13 @@ docker run -d -p 8080:8080 --name your-app your-app:latest
 4. **Push** to the branch (`git push origin feature/amazing-feature`)  
 5. Open a **Pull Request**
 
+<!--
 ### 📋 Code Style
 - **Google Java Style Guide** 준수
 - **SonarLint** 정적 분석 통과
 - **최소 90% 테스트 커버리지** 유지
 
-<!--
+
 ## 🏆 Achievements
 
 - ⚡ **성능**: API 응답속도 평균 200ms → 50ms (75% 개선)
